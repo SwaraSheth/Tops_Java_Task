@@ -26,7 +26,7 @@ public static void main(String[] args) {
 		default:
 			System.out.println(""+ch+" is consonant");
 			break;
-			55yy6
+			
 		}
 	    
 }
