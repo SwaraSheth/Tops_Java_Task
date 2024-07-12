@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class GregorianCalendar {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		heelo 
+		
 		int year;
 		System.out.println("Enter Year");
 		year=sc.nextInt();
